@@ -23,7 +23,7 @@ A PocketMine-MP plugin which allows players to store their money in a bank. This
 
 # Download
 
-Download the latest build of this plugin in [Poggit CI](https://poggit.pmmp.io/ci/KygekDev/BankUI/~).
+Download the latest build of this plugin in [Poggit CI](https://poggit.pmmp.io/ci/kdpls/BankUI/~).
 
 # Important
 

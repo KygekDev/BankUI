@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KygekDev/BankUI
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/kdpls/BankUI
 build-by-default: true
 branches:
 - main
