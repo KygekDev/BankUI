@@ -24,3 +24,6 @@ permissions:
   bankui.bank:
     description: Permission to open the BankUI
     default: true
+  bankui.admin:
+    description: Permission to view other players transactions
+    default: op
